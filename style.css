@@ -1,0 +1,52 @@
+body {
+    background-color:rgb(231, 219, 184)
+     }
+
+    p {
+      font-family:'Roboto Slab', serif;
+
+    } 
+    
+    #style-main-skills{
+      font-size: 25px;
+      font-weight: bold;
+    }
+
+    #style-others-skills{
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+    #imagem{
+    border-radius: 100%;
+    float:left;
+    height: 300px;
+    
+    }
+
+    .image-container{
+        height: 300px;
+        padding: 10px;
+    }
+    
+    h1{
+        text-align: center;
+    }
+    div{
+        border: 2px solid green
+    }
+
+    .desc{
+        position: absolute;
+        float: right;
+        right: 280px;
+        top: 270px;
+    }
+    ul li:nth-child(even) {
+        background-color: lightblue;
+    }
+
+    ul li:hover{
+        border:  solid black;
+    }
+    
